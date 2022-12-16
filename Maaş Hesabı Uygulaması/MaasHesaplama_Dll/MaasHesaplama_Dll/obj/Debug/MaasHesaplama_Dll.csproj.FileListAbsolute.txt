@@ -1,0 +1,6 @@
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesaplama_Dll\MaasHesaplama_Dll\bin\Debug\MaasHesaplama_Dll.dll
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesaplama_Dll\MaasHesaplama_Dll\bin\Debug\MaasHesaplama_Dll.pdb
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesaplama_Dll\MaasHesaplama_Dll\obj\Debug\MaasHesaplama_Dll.csproj.CoreCompileInputs.cache
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesaplama_Dll\MaasHesaplama_Dll\obj\Debug\MaasHesaplama_Dll.dll
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesaplama_Dll\MaasHesaplama_Dll\obj\Debug\MaasHesaplama_Dll.pdb
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesaplama_Dll\MaasHesaplama_Dll\obj\Debug\MaasHesaplama_Dll.csprojAssemblyReference.cache

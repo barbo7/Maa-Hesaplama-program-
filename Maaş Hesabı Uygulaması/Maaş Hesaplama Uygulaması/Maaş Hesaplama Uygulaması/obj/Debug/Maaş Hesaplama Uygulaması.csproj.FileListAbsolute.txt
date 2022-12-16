@@ -1,0 +1,13 @@
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\bin\Debug\Maaş Hesaplama Uygulaması.exe.config
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\bin\Debug\Maaş Hesaplama Uygulaması.exe
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\bin\Debug\Maaş Hesaplama Uygulaması.pdb
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş Hesaplama Uygulaması.csprojAssemblyReference.cache
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş_Hesaplama_Uygulaması.Form1.resources
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş_Hesaplama_Uygulaması.Properties.Resources.resources
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş Hesaplama Uygulaması.csproj.GenerateResource.cache
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş Hesaplama Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş Hesaplama Uygulaması.csproj.CopyComplete
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş Hesaplama Uygulaması.exe
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\obj\Debug\Maaş Hesaplama Uygulaması.pdb
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\bin\Debug\MaasHesaplama_Dll.dll
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\Maaş Hesaplama Uygulaması\Maaş Hesaplama Uygulaması\bin\Debug\MaasHesaplama_Dll.pdb
