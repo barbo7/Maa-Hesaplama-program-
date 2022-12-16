@@ -18,6 +18,7 @@ Oradan da build ettiğimiz dll'i project butonundan "add referance" seçeneğini
 hesaplamalarda, vergi oranında vs. değişikliği olduğu vakit anında bütün dll'i kullandığımız yerlerde etki etmesi için dll üzerinden değişiklik yapmamız yeterli geliyor.
 
 ![image](https://user-images.githubusercontent.com/114573591/208199770-1d45cf49-fe1f-42f7-88ba-c9fc1a919045.png)
+
 İlk olarak bize kaç kayıt gireceğimizi soruyor uygulama ve girdiğimiz kayıt sayısı verdiğimiz istediğimiz sayıya gelince ekleme yapma butonu kapanıyor.
 Burada ana formumuzu görüyorsunuz, çocuk başına net maaşa direkt olarak etki eden para almak için öncelikle evli olmanız gerekiyor.
 Onun dışında Engellilik durumuna göre net maaşa direkt etki eden bir gelir koyuyoruz hesaplarken. n sayıda girmek istediğimiz kayıt'ı girdikten sonra buton kapanıyor fakat yanındaki checkBox'ı işaretleyerek veri girmeye devam edebiliyoruz.
