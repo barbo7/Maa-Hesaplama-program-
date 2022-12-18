@@ -1,0 +1,18 @@
+C:\Users\as\source\repos\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\Maaş_Hesaplama_Uygulaması.Form1.resources
+C:\Users\as\source\repos\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.Properties.Resources.resources
+C:\Users\as\source\repos\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.csproj.GenerateResource.cache
+C:\Users\as\source\repos\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\as\source\repos\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.csprojAssemblyReference.cache
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.Properties.Resources.resources
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.csproj.GenerateResource.cache
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.Form1.resources
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\bin\Debug\MaasHesapUygulaması.exe.config
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\bin\Debug\MaasHesapUygulaması.exe
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\bin\Debug\MaasHesapUygulaması.pdb
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.csproj.CopyComplete
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.exe
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.pdb
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\bin\Debug\MaasHesaplamasiDll.dll
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\bin\Debug\MaasHesaplamasiDll.pdb
+C:\Users\as\source\repos\Maaş Hesabı Uygulaması\MaasHesapUygulaması\MaasHesapUygulaması\obj\Debug\MaasHesapUygulaması.csprojAssemblyReference.cache
