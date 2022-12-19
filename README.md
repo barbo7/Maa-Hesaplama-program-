@@ -17,7 +17,8 @@ Uygulamada Dll dosyasını aktif etmek için öncelikle dll dosyasını build et
 Oradan da build ettiğimiz dll'i project butonundan "add referance" seçeneğini seçip dll yolunu kaydettikten sonra uygulamamız kullanıma hazır hale geliyor. sonrasında 
 hesaplamalarda, vergi oranında vs. değişikliği olduğu vakit anında bütün dll'i kullandığımız yerlerde etki etmesi için dll üzerinden değişiklik yapmamız yeterli geliyor.
 
-![image](https://user-images.githubusercontent.com/114573591/208323384-29a2fda5-8302-4ce4-82be-49903dc96892.png)
+![image](https://user-images.githubusercontent.com/114573591/208494714-1d011bb0-c7ee-43d9-b169-05e2aba21707.png)                ![image](https://user-images.githubusercontent.com/114573591/208494868-31de25b1-e118-48cb-aa6f-b938cb6e1cf8.png)
+
 
 İlk olarak bize kaç kayıt gireceğimizi soruyor uygulama ve girdiğimiz kayıt sayısı verdiğimiz istediğimiz sayıya gelince ekleme yapma butonu kapanıyor fakat yine de kayıt girmek istersek yanındaki checkBox'ı işaretlememiz yetiyor.
 Burada ana formumuzu görüyorsunuz, net maaşa etki eden kalemleri verdiğiniz bilgilere göre değerlendirip olması gereken aylık bürüt maaşı database'e kaydedip listView'de gösteriyorum.
@@ -31,7 +32,7 @@ Dll kısmında ise 2 class mevcut ilki maaş hesabı ile ilgili diğeri ise data
 Daha sonrasında verileri kolaylıkla güncelleyip programın ilerleyişini sürdürebilmek için maaş hesaplama class'ında bazı değişkenler vermiş bulunmaktayım.
 Açıklama satırlarıyla beraber kodlar mevcuttur
 
-![image](https://user-images.githubusercontent.com/114573591/208323737-ad051a2f-532c-4b0e-aae2-1029b475aa2c.png)
+![image](https://user-images.githubusercontent.com/114573591/208497456-502c8ede-1def-4dd6-80dd-9381f1460263.png)
 
 ![image](https://user-images.githubusercontent.com/114573591/208323762-b559a615-91ff-443c-9d21-d9696366ff50.png)
 
