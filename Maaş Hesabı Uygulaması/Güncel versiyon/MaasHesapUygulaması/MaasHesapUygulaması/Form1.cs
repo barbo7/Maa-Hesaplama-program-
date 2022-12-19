@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Windows.Forms;
 using MaasHesaplamasi;
 namespace MaasHesapUygulaması
@@ -22,8 +22,6 @@ namespace MaasHesapUygulaması
             else checkBox3.Checked = false;
             //Program oluşturulurken girilmek istenen kayıt sayısını önceden soran kod parçası
             button1.Enabled = checkBox3.Checked;
-
-
             textBox1.Enabled = false;
         }
 
@@ -31,6 +29,7 @@ namespace MaasHesapUygulaması
         {
             if (comboBox1.Enabled)
                 cocuks = int.Parse(comboBox1.Text);
+            else cocuks = 0;
 
 
             if (textBox1.Text != "" || radioButton2.Checked)
