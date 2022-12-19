@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data.SqlClient;
 
 namespace MaasHesaplamasi
@@ -14,7 +14,7 @@ namespace MaasHesaplamasi
 
         double ek = 0;
 
-        public double NetMaas1(double BrutMaas, bool EvliMi, bool Engellilik, int CocukSayisi)
+        public double NetMaas(double BrutMaas, bool EvliMi, bool Engellilik, int CocukSayisi)
         {
             double Sigorta = BrutMaas >= SgkTavan ? (SgkTavan * SigortaOrani) / 100 : (BrutMaas * SigortaOrani) / 100;
             //Bürüt maaş Sgk Tavan puanını geçtiği zaman sgkTavan puanı üzerinden sigorta pirimi hesaplanıyor.
@@ -27,20 +27,6 @@ namespace MaasHesaplamasi
 
             double NetMaasimiz = BrutMaas - (Vergi + Sigorta) + ek + AsgariDamgaVergisiIstisnasi + AsgariGVIstisnasi;
             //Yaptığımız işlem bürüt maaş üzerinden vergi ve sigortayı çıkarttıkan sonra vergi istisnaları dahil edildikten sonra engellilik veyahut evli ve çocuklu durumuna göre net maaşımızı belirlememize olanak tanıyor.
-
-            ek = 0;
-            return NetMaasimiz;
-        }
-
-        public double NetMaas2(double BrutMaas, bool Engellilik)
-        {
-            double Sigorta = BrutMaas >= SgkTavan ? (SgkTavan * SigortaOrani) / 100 : (BrutMaas * SigortaOrani) / 100;
-            double Vergi = VergiHesap(BrutMaas -Sigorta);
-            Vergi += BrutMaas * 0.759 / 100;
-
-            if (Engellilik) ek += 500;
-
-            double NetMaasimiz = BrutMaas - (Vergi + Sigorta) + ek + AsgariDamgaVergisiIstisnasi + AsgariGVIstisnasi;
 
             ek = 0;
             return NetMaasimiz;
